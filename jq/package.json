@@ -1,0 +1,12 @@
+{
+  "name": "jq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "chmod 744 ./exec.sh && sh -c ./exec.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
